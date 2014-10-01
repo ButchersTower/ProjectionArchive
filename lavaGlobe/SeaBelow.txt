@@ -1,0 +1,29 @@
+(e[0] * v - b[0] * t - a[0] + c[0]) / -d[0] = (e[1] * v - b[1] * t - a[1] + c[1]) / -d[1]
+
+d[1] is zero, so i know that 
+(e[1] * v - b[1] * t - a[1] + c[1]) * d[0] = 0
+v = -(-b[1] * t - a[1] + c[1]) * (-d[0]) / (e[1] * (-d[0]))
+
+t * -b[1] * (-d[0]) * (e[2] * (-d[0]) + (-a[1] + c[1]) * (-d[0]) * (e[2] * (-d[0])) =
+t * -b[2] * (-d[0]) * (e[1] * (-d[0]) + (-a[2] + c[2]) * (-d[0]) * (e[1] * (-d[0]))
+
+t * (-b[1] * (-d[0]) * (e[2] * (-d[0]) + b[2] * (-d[0]) * (e[1] * (-d[0])) =
+(-a[2] + c[2]) * (-d[0]) * (e[1] * (-d[0])) -(-a[1] + c[1]) * (-d[0]) * (e[2] * (-d[0]))
+
+t =
+(-a[2] + c[2]) * (-d[0]) * (e[1] * (-d[0])) -(-a[1] + c[1]) * (-d[0]) * (e[2] * (-d[0])) /
+(-b[1] * (-d[0]) * (e[2] * (-d[0]) + b[2] * (-d[0]) * (e[1] * (-d[0]))
+
+Find vect with 2 floats not zero.
+
+
+
+
+
+
+Program that is used for editing 3d models.
+
+Displaying multiple models.
+Do i just throw all of the faces into an array and sort or draw
+one model at a time, but then overlap will be weird.
+Use bounding squares? 

@@ -1,0 +1,4 @@
+(x, y, z)
+Draw a 10x10x10 square with a different color on each side at point (18,10,18).
+Have player at (0, 0, 0) facing (0, 0, 1)
+
