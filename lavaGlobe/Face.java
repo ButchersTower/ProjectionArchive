@@ -1,4 +1,4 @@
-package lavaGlobe;
+package ProjectionArchive.lavaGlobe;
 
 public class Face {
 	float a;

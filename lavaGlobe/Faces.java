@@ -1,4 +1,4 @@
-package lavaGlobe;
+package ProjectionArchive.lavaGlobe;
 
 public class Faces {
 	// take in an array of (float, float[], float[][])

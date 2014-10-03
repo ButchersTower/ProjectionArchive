@@ -1,4 +1,4 @@
-package lavaGlobe;
+package ProjectionArchive.lavaGlobe;
 
 public class Vect3d {
 	static float dot(float[] a, float[] b) {

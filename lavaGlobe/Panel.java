@@ -1,4 +1,4 @@
-package lavaGlobe;
+package ProjectionArchive.lavaGlobe;
 
 import java.awt.Color;
 import java.awt.Dimension;

@@ -1,4 +1,4 @@
-package projectionBucket;
+package ProjectionArchive.projectionBucket;
 
 import javax.swing.JFrame;
 
